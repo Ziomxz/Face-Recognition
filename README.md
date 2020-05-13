@@ -1,4 +1,4 @@
-#README
+# README
 
 **Heroku Free Plan forces low activity applications into sleep mode; the website may take 2 minutes to load on the first try.**
 
